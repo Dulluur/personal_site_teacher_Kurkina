@@ -401,6 +401,12 @@ a:hover, a:active, a:focus {
   text-align: center;
 }
 
+#platfomers .col-md-12 p{
+  padding: 1px;
+}
+
+
+
 
 
 /*---------------------------------------
@@ -447,6 +453,7 @@ a:hover, a:active, a:focus {
 #contact input[type="submit"]:hover {
   background: #333;
 }
+
 
 
 
