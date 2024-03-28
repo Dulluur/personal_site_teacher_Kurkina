@@ -107,14 +107,14 @@ a:hover, a:active, a:focus {
 #blog, 
 #blog-single-post {
   padding-top: 60px;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 
 .main-about,
 .main-single-post,
 .main-gallery,
 .main-contact {
-  height: 65vh;
+  height: 35vh;
 }
 
 .overlay {
@@ -757,7 +757,7 @@ footer .footer-copyright {
   .main-single-post,  
   .main-gallery,
   .main-contact {
-    height: 35vh;
+    height: 24vh;
   }
 
 }
